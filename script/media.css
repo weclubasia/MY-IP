@@ -1,0 +1,244 @@
+@media(max-width: 1680px) {
+	.container-content{width:1180px}
+	.award{ width:90%; padding:30px 5% 40px!important}
+    .award i{ font-size:24px }
+    .award span{ font-size: 16px}
+	.w3-center{margin: 0 0 30px}
+	.w3-button{ font-size:12px; padding:13px 30px 13px 30px; margin: 0 10px}
+	.mg-top{margin-top:80px}
+	.whatwedo-content{ width:90%; margin: 0 5%}
+	.whatwedo-content li{margin:0 80px 40px 0}
+	.pd-space-standard{padding:80px 0 60px}
+	.pd-space-standard-about{padding:0px 0 80px}
+	.pd-space-standard-work{padding:60px 0 90px}
+	.about-banner{ padding: 80px 0 0}
+	.about-banner-white{ padding: 80px 0 0}
+	.bg-watwedone{background-position: center 50px}
+	.headline-title{ margin-bottom: 40px}
+}
+@media(max-width: 1366px) {
+	.container-content{width:1112px}
+	.mg-top{margin-top:60px}
+	.mg-top-short{margin-top:0px}
+}
+@media(max-width: 1118px) {
+	.hero-banner{ margin-top: 0px}
+	.award{ width:100%; padding:15px 0 20px!important}
+    .award i{ font-size:18px}
+    .award span{ font-size: 11px; line-height: 16px}
+	.container-content{width:90%; margin: 0 auto}
+	.intro-content{ width:40%; margin-top: 0px}
+	.amt-video{ width:55%; min-height: 100%; margin-right: 5%; background-image: none}
+	.btn-main{margin-top: 30px; padding:8px 20px 12px}
+	.ipadpro-hide{ display:block}
+	.ipadpro-block{ display: none}
+	.whatwedo-content li{ float: left; margin:0 50px 0 0; padding: 0; flex: 1}
+	.work-content-row li{ margin: 0 30px 0 0; padding: 0px 0px; flex: 1}
+	.work-content-row li:nth-child(3){margin: 0}
+	.w3-button{ font-size:12px; padding:12px 30px 13px 30px; margin: 0 10px}
+	.bg-retailaim{background-attachment: scroll}
+	.career-content{ width:43%; float: left; margin: 0px 2% 0 0}
+	
+	.about-banner-white{ padding: 70px 0 0; margin-top: 74px; -webkit-border-bottom-left-radius: 50px;-moz-border-radius-bottomleft: 100px;border-bottom-left-radius: 100px}
+	.career-banner-white{ height:260px; padding: 70px 0 0; margin-top: 74px; -webkit-border-bottom-left-radius: 50px;-moz-border-radius-bottomleft: 100px;border-bottom-left-radius: 100px}
+	.career-content-white h3{ width: 79%; margin: 10px auto 0}
+	.career-content-white br{ display: none}
+	.bg-watwedo{background-position: center top}
+	.bg-joinus{background-position: center top}
+	.service-content-img{ width:55%}
+	.service-content-info{ width:40%; line-height:20px}
+	.service-content-info h3{ margin-bottom: 5px}
+	.service-content-info p{ margin: 0 0 10px}
+	.service-content-row{margin-bottom: 60px}
+	.career-content-box{ margin: 0}
+	.mg-top{margin-top:0px}
+	.about-banner{ padding: 70px 0 0; margin-top: 80px}
+	.container-footer{width: 90%}
+}
+@media(max-width: 768px) {
+	html,body{font-size: 14px;line-height: 18px; }
+	h1{ font-size:42px; line-height: 42px}
+	h2{ font-size:32px; line-height: 38px}
+    h3{ font-size:24px; line-height: 30px}
+    h4{ font-size:18px; line-height: 24px}
+    h5{ font-size:12px; line-height: 16px}
+	.amt-video{ width:100%; min-height: 100%; margin-right: 0%; margin-bottom: 20px}
+	.intro-content{ width:100%; margin-top: 15px; text-align: center}
+	.title-devider{ margin: 25px auto 35px}
+	.title-devider-white{ width:45px; margin: 0px auto 30px; height: 2px; background-color: #fff}
+	.title-devider-aim{ width:45px; margin: 20px auto 30px; height: 2px; background-color: #fff}
+	.title-devider-whyus{ width:45px; margin: 30px auto 60px; height: 2px; background-color: #fff}
+	.btn-main-center{  margin: 30px auto 0}
+	.career-wrap h4{ font-size: 14px; line-height: 16px }
+	.ipad768-hide{ display: none}
+	.ipad768-block{ display: block}
+	.ipad768-btn-hide{display: block}
+	.whyus-desc{ width:90%; margin: 0px auto 0}
+	.w3-button{ padding:10px 10px 10px 10px; margin: 0 5px}
+	.service-content-img{ width:45%}
+	.service-content-info{ width:50%; line-height:17px}
+	.service-content-info h3{ margin-bottom: 5px}
+	.service-content-info p{ margin: 0 0 5px}
+	.service-content-row{margin-bottom: 30px; padding-top: 20px}
+	.mg-top-15{ margin-top:0}	
+	.mg-top{ margin-top:0}
+	.news-content-row{ width:95%; margin: 0 auto 30px; padding: 20px 4%}
+	.news-content-img{ width:100%; margin-bottom: 15px}
+	.news-content-info{ width:100%; padding-left: 0%}
+	.news-content-info h2{ margin-bottom: 10px}
+	.news-content-info p{ margin: 0 0 10px}
+	.headline-title{margin-bottom: 10px}
+	.headline-games{margin-bottom: 10px}
+	.headline-services{margin-bottom: 10px}
+	.headline-title img{width: 80%}
+	.headline-games img{width: 80%}
+	.headline-services img{width: 80%}
+	.headline-title-inside img{width: 80%}
+	.headline-title-whyus img{width: 100%}
+	.headline-title-referrals img{width: 90%}
+	.headline-title-affiliate img{width: 90%}
+	.intro-content{margin-bottom:0; text-align: center}
+	.news-content-info{margin:30px 0; text-align: center}
+	.news-content-info p{margin:0 0 30px 0; text-align: center}
+	.news-content-info a span{width: 100%; text-align: center!important; background-color:#FBAE2D; color: #000; padding: 15px 0px}
+	.intro-content h2{margin-bottom:10px}
+	.intro-content a{margin:0}
+	.whyus-desc-left h4{font-size: 28px}
+	.career-wrap img{width: 100%}
+	.work-content p{width:90%; margin: 0 auto; font-size: 16px; line-height: 24px}
+	.work-title h2{width: 90%; margin: 0 auto}
+	.footer-map ul{display:block; justify-content:flex-start; list-style: none}
+	.footer-map li{width:100%; margin-bottom: 60px; line-height: 21px}
+	.footer-map {padding-bottom:0}
+	.dna{width:100%; margin: 15px auto 15px}
+	.dna ul li{width: 50%}
+	.intro-graphic { width:90%}
+	.intro-graphic iframe{ width:100%; height: 280px; float: left}
+	.bg-news{ background-size:cover;}
+	.btn-main-center a{text-decoration: none; font-weight: bold; color: #000; background-color:#FBAE2D; padding:15px 30px}
+	.btn-country {width:100%; float: left}
+	.btn-country a{width:33.3333333%; float: left}
+}
+@media(max-width: 700px) {
+	html,body{font-size: 14px;line-height: 21px}
+	.logo{display: none}
+	.logo-mobile{width:120px; float:left; padding: 30px 0 0; display: block}
+	.logo-mobile img{ width:110px}
+	.mob-hide{ display: none!important}
+	.desk-hide{ display: block}
+	.ipad768-hide{ display: block}
+	.ipad768-block{ display: none}
+	.ipad768-btn-hide{display: none}
+	
+	.award{ width:95%; padding:15px 2.5% 20px!important}
+    .award i{ width:100%; font-size:24px; margin-bottom: 5px}
+    .award span{ font-size: 12px; line-height: 16px}
+	.award strong{ display: block; padding: 0 15px}
+	.award-devider{ background-position: right 45px}
+	.intro-content h4{ line-height: 24px; margin-bottom: 10px}
+	.amt-video{ margin-bottom: 10px}
+	.btn-main-center{width: 100%; margin: 30px auto 0; color: white; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px}
+	.btn-main{width: 100%; margin: 30px auto 0; color: white; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px}
+	.btn-main-aim{width: 96%; padding:8px 2% 12px; margin: 30px auto 0; background-color: #fff; color: #051079; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px}
+	.btn-main-ipadpro{width:96%; margin: 20px auto 0; padding:8px 2% 12px; font-size: 12px}
+	.whatwedo-content ul {display: block}
+	.whatwedo-content li{ width: 100%; margin:0 0 60px; padding: 0; flex: none}
+	.whatwedo-content li:nth-child(3){ margin:0 0 60px 0}
+	.bg-page-livecasino{background-position: center 80px; background-repeat: no-repeat}
+	.games-content ul{ margin:0 0 30px; padding: 0; list-style: none; display: block}
+	.games-content li{ width: 50%; margin:0 0 0px; padding: 0; flex: none}
+	.service-img{ margin-bottom: 5px}
+	.service-decs p{margin: 0}
+	.service-decs h3{margin: 0 0 10px}
+	.service-decs br{display: none}
+	.work-content-row ul{ display: block}
+	.work-content-row li{ width: 90%; float: left; margin: 0 0 20px 0; padding: 20px 5%; flex: none; -webkit-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.2);-moz-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.2);box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.2); -webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px}
+	.work-content-info p{margin:0 0 20px; width: 100%;}
+	.whyus-desc{ width:100%; text-align: center}
+	.w3-button{font-size: 12px; padding:10px 30px 10px 30px; margin: 0 5px 12px}
+	.whyus-desc-left{width:100%; margin-bottom: 15px; margin-right: 0}
+	.whyus-desc-right{width:100%}
+	.retailaim-content p{ width: 90%}
+	.aim-img img{ width:100%}
+	.career-content{ width:100%; margin: 0px 0 0 0}
+	.career-wrap{ width:100%; margin: 0 auto 15px; float: none}
+.career-content-row1{ width:50%; margin-bottom: 0px}
+.career-content-row2{ width:50%; margin-bottom: 0px}
+.career-content p{width:80%; margin: 0 10% 15px; text-align: center}
+.career-wrap h4{ font-size: 16px; line-height: 23px }
+
+.career-img{ width:51%; float: left; padding: 2%; background-color: #fff; -webkit-box-shadow: 0px 3px 15px 0px rgba(0,0,0,0.2);
+-moz-box-shadow: 0px 3px 15px 0px rgba(0,0,0,0.2);box-shadow: 0px 3px 15px 0px rgba(0,0,0,0.2);}
+.career-img-mob{ width:96%; padding: 2%; margin-bottom: 30px}
+.bg-contact{background-image:none}	
+.contact-address{ width:100%; margin-right: 0%; text-align: center; margin-bottom: 15px}
+.contact-address br{ display: none}
+.contact-address h5{margin-bottom: 5px}
+.contact-address p{margin-bottom: 15px}
+.contact-field{ width:100%}
+	.full { width: 100%;
+  margin-bottom: 0em;
+}
+.left {
+  width: 100%;
+  margin-right: 0%;
+}
+.right {
+  width: 100%;
+}
+form input, form textarea {
+  padding: 1em 4%;
+  width: 92%;
+  margin: 0.5em 0 0em;
+}
+.btn-contact{margin-top: 20px; padding:15px 40px 18px; background-color: #2C63D4; color:white; float: left; border: none; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px}
+.btn-mobile-reg{width: 100%; margin-top: 20px; padding:12px 0px 15px; background-color: #FBAE2D; color:#000; float: left; border: none; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; text-align: center}
+.footer-content{padding-bottom: 30px; margin:0 0 30px}
+.footer-menu{width:100%; margin-bottom: 30px}
+.footer-menu ul{width: 29.3333333%; margin: 0 2%}
+.footer-menu ul:nth-child(3){ margin: 0 0 0 3%}
+.footer-menu ul li{margin: 0 0 10px 0}
+.footer-copyright{width:100%; float: left; text-align: center}
+.footer-copyright br{display: none}
+.pd90{padding:40px 0 40px}
+.footer-livecasino{padding: 30px 0;}
+	
+.footer-logo{ width:100%; text-align: center; margin-bottom: 30px}
+.footer-social{ width:100%; font-size:24px; float:left; text-align: center}
+
+.pd-space-standard{padding:50px 0}
+.mg-bot30{padding-bottom: 20px}
+.footer-social span{ margin-left: 15px; margin-right: 15px}
+
+.about-banner-white{ padding: 40px 0 0; margin-top: 74px; margin-bottom: 0px; -webkit-border-bottom-left-radius: 50px;-moz-border-radius-bottomleft: 50px;border-bottom-left-radius: 50px}
+.about-content-white h3{letter-spacing: 3px}
+.service-content-img{ width:100%; margin-bottom: 15px}
+.service-content-info{ width:100%; line-height:22px}
+.service-content-info li{ width: 85%}
+.service-content-info h3{ margin-bottom: 15px}
+.service-content-info p{ width: 100%; margin: 0 0 15px}	
+.service-content-row{margin-bottom: 30px}
+.service-content-info li{ width: 90%; margin: 0 0 5px}	
+	
+.bg-watwedo{background-position: -140px top; background-attachment: fixed; background-size: 1200px}
+.bg-watwedone{background-position: -580px 70px; background-attachment: fixed; background-size: 1200px}
+.bg-joinus{background-position: -200px top; background-attachment: fixed; background-size: 1200px}
+.pd-space-standard-about{padding:40px 0 40px}
+.career-banner-white{ height:280px; padding: 50px 0 0; margin-top: 74px; -webkit-border-bottom-left-radius: 50px;-moz-border-radius-bottomleft: 50px;border-bottom-left-radius: 50px}
+.career-title h1{ width: 80%; margin: 0 auto}
+.career-content-white h3{font-size: 16px; width: 79%; margin: 10px auto 0; line-height: 28px}
+.career-content-box{ width:90%; margin: 0; padding: 20px 5%; -webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px}
+	
+.about-banner{ padding: 45px 0 0; margin-top: 80px}
+.about-content h3{line-height: 24px}
+.service-info-spacing-left{padding: 0}
+
+.bg-case{background-position: center top}
+.pd-space-standard-work{padding:30px 0}
+.work-banner{width:100%; color:#fff; padding: 40px 0 0; margin-top: 74px; margin-bottom: 0; float: left }
+.work-title h1{width: 80%; margin: 0 auto}
+.work-content h3{width: 90%; line-height: 24px; margin: 0 auto 50px}
+
+.btn-wrap{ margin-bottom: 0px}
+.amt-video iframe{height:190px}
+}
